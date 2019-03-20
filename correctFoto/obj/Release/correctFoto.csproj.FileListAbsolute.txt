@@ -1,0 +1,8 @@
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\correctFoto\correctFoto\bin\Release\correctFoto.exe.config
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\correctFoto\correctFoto\bin\Release\correctFoto.exe
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\correctFoto\correctFoto\bin\Release\correctFoto.pdb
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\correctFoto\correctFoto\obj\Release\correctFoto.Form1.resources
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\correctFoto\correctFoto\obj\Release\correctFoto.Properties.Resources.resources
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\correctFoto\correctFoto\obj\Release\correctFoto.csproj.GenerateResource.Cache
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\correctFoto\correctFoto\obj\Release\correctFoto.exe
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\correctFoto\correctFoto\obj\Release\correctFoto.pdb

@@ -1,0 +1,18 @@
+c:\users\pavel\documents\visual studio 2015\Projects\correctFoto\correctFoto\bin\Debug\correctFoto.exe.config
+c:\users\pavel\documents\visual studio 2015\Projects\correctFoto\correctFoto\obj\Debug\correctFoto.Form1.resources
+c:\users\pavel\documents\visual studio 2015\Projects\correctFoto\correctFoto\obj\Debug\correctFoto.Properties.Resources.resources
+c:\users\pavel\documents\visual studio 2015\Projects\correctFoto\correctFoto\obj\Debug\correctFoto.csproj.GenerateResource.Cache
+c:\users\pavel\documents\visual studio 2015\Projects\correctFoto\correctFoto\bin\Debug\correctFoto.exe
+c:\users\pavel\documents\visual studio 2015\Projects\correctFoto\correctFoto\bin\Debug\correctFoto.pdb
+c:\users\pavel\documents\visual studio 2015\Projects\correctFoto\correctFoto\obj\Debug\correctFoto.exe
+c:\users\pavel\documents\visual studio 2015\Projects\correctFoto\correctFoto\obj\Debug\correctFoto.pdb
+C:\Users\Pavel\documents\visual studio 2015\Projects\correctFoto\correctFoto\obj\Debug\correctFoto.csprojResolveAssemblyReference.cache
+C:\Users\Pavel\Desktop\correctFoto\correctFoto\bin\Debug\correctFoto.exe.config
+C:\Users\Pavel\Desktop\correctFoto\correctFoto\obj\Debug\correctFoto.exe
+C:\Users\Pavel\Desktop\correctFoto\correctFoto\obj\Debug\correctFoto.pdb
+C:\Users\Pavel\Desktop\correctFoto\correctFoto\bin\Debug\correctFoto.exe
+C:\Users\Pavel\Desktop\correctFoto\correctFoto\bin\Debug\correctFoto.pdb
+C:\Users\Pavel\Desktop\correctFoto\correctFoto\obj\Debug\correctFoto.csprojResolveAssemblyReference.cache
+C:\Users\Pavel\Desktop\correctFoto\correctFoto\obj\Debug\correctFoto.Form1.resources
+C:\Users\Pavel\Desktop\correctFoto\correctFoto\obj\Debug\correctFoto.Properties.Resources.resources
+C:\Users\Pavel\Desktop\correctFoto\correctFoto\obj\Debug\correctFoto.csproj.GenerateResource.Cache
